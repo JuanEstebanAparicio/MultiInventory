@@ -33,7 +33,7 @@ class InventoryModuleSeeder extends Seeder
                     ]
                 ]
             ]),
-            'create_at' => now(),
+            'created_at' => now(),
             'updated_at' => now()
         ]);
     }
